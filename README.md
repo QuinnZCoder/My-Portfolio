@@ -2,7 +2,7 @@
 <html lang="en">
   <header>
     <nav>
-    <img class="html" src="![image](https://github.com/QuinnZCoder/My-Profile/assets/164296531/dd34630e-16fd-4501-b4f2-03f64508f910)
+    <img class="
 >
     <img class="css" src>
     <img class="javascript" src>
