@@ -27,11 +27,12 @@
   </header>
   <main>
     <h1>Hey there, it's Quinn!</h1>
+      <p>Web developer who is very open-minded, a fast-learner, and looking to build incredible projects for clients!</p>
+    <img class="cute gif" src=">
     <img src="https://sdk.bitmoji.com/render/panel/20054902-102690400939_1-s5-v1.png?transparent=1&palette=1&scale=2">
     <h2>Here are some projects that I've designed.</h2>
     <p><a class="fiesta survey" href="">Fiesta Planning Survey</a> using HTML5 and CSS3</p>
-    <p>Very open-minded, fast-learner, looking to build incredible projects for clients!</p>
-    <img class="cute gif" src="
+   
     
 
   </main>
