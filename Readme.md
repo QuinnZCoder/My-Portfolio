@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
+<head>
       <styles>
       body {
      background-color: lightgreen;
@@ -37,4 +35,4 @@
   </main>
   
   </body>
-</html>
+
