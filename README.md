@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head><styles>
+   <head>
+      <styles>
       body {
      background-color: lightgreen;
      color: navyblue;
